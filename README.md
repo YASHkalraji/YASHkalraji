@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm YASH KALRA</h1>
 <h3 align="center">I am a Computer Science Engineer who loves to learn by understanding and solving problems. I love to dive deep into intricacies of complex problems.</h3>
 
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." alt="yashkalraji" /> </p>
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207" alt="yashkalraji" /> </p>
 
 
 - 🌱 I’m currently learning **NODEJS**
