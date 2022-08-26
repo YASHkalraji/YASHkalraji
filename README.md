@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.bing.com/images/blob?bcid=r0x.YsriE5MELw)
 <h1 align="center">Hi 👋, I'm YASH KALRA</h1>
 <h3 align="center">I am a Computer Science Engineer who loves to learn by understanding and solving problems. I love to dive deep into intricacies of complex problems.</h3>
 
