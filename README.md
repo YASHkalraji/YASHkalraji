@@ -1,4 +1,4 @@
-![MasterHead]([[https://www.bing.com/images/blob?bcid=r0x.YsriE5MEL](https://media-exp1.licdn.com/dms/image/C5616AQHyOg4inTyJ8g/profile-displaybackgroundimage-shrink_350_1400/0/1624358606743?e=1666828800&v=beta&t=FqYECAfu5MTujqtGz2YzdsQ6FSWGG_kmDyhN1M6xfh4)])
+![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHyOg4inTyJ8g/profile-displaybackgroundimage-shrink_350_1400/0/1624358606743?e=1666828800&v=beta&t=FqYECAfu5MTujqtGz2YzdsQ6FSWGG_kmDyhN1M6xfh4)
 <h1 align="center">Hi 👋, I'm YASH KALRA</h1>
 <h3 align="center">I am a Computer Science Engineer who loves to learn by understanding and solving problems. I love to dive deep into intricacies of complex problems.</h3>
 
